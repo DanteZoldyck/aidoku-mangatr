@@ -1,0 +1,11 @@
+{
+  "id": "tr.manga-tr",
+  "name": "Manga-TR",
+  "version": 1,
+  "url": "https://manga-tr.com",
+  "lang": "tr",
+  "listing": [
+    { "name": "Son Eklenen" },
+    { "name": "Popüler" }
+  ]
+}
